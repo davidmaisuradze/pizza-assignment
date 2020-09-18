@@ -5,7 +5,7 @@ be alright and I will pass this interview
 ## To Run API
 Open david-pizza-assignment-api folder. Create .env file in this folder and copy-paste variables from
 .env-example file to .env file. Open terminal for david-pizza-assignment-api folder and run the following commands: 
-`npm install` and then `npm start`. API will start on http://localhost:4500/
+`npm install` and then `npm start`. API will start on `http://localhost:4500/`
 
 ## To Run WEB
 Open terminal for david-pizza-assignment-web folder and run the following commands:
