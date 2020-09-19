@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/config/constants.js"],"names":["ROLES","Admin","User"],"mappings":";;;;;AAAO,IAAMA,wBAAQ;AACjBC,WAAO,OADU;AAEjBC,UAAM;AAFW,CAAd","file":"constants.js","sourcesContent":["export const ROLES = {\r\n    Admin: 'ADMIN',\r\n    User: 'USER'\r\n};\r\n"]}
